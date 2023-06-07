@@ -1,0 +1,16 @@
+{
+    "name": "13010-08-09/0-exo-resto-v3b_cntrl-sasie",
+    "autoload": {
+        "psr-4": {
+            "130100809\\0ExoRestoV3bCntrlSasie\\": "src/",
+            "projet1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mezough",
+            "email": "mezough.webdev@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,4 @@
+
+Gestion des exceptions sur la création de plat
+Controle de la saisie sur création de plat
+Utilisation d'un tableau pour l'affichage du menu
